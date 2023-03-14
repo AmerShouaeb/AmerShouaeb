@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmerShouaeb
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning HTML - CSS - JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
