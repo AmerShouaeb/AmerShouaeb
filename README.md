@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmerShouaeb
-- 👀 I’m interested in iOS App Development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m passionate about iOS App Development
+- 🌱 Currently diving deep into the world of Swift
+- 💞️ Open to exciting collaborations and projects
+- 📫 Let's connect! Reach me at [amerxus@gmail.com]
 
 <!---
 AmerShouaeb/AmerShouaeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
