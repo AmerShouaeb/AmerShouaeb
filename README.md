@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmerShouaeb
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML - CSS - JS 
+- 👀 I’m interested in iOS App Development
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
